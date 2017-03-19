@@ -1,8 +1,8 @@
 [15th club](http://www.15thclub.com/) released two golf datasets for a
-digital hackathon in March 2017 and asked participants to analyze
-and uncover insights from the shot-by-shot data.
-
-See the [notebooks](https://github.com/brendansudol/golf-moneyball/tree/master/notebooks) for data munging and analyses
+[hackathon](http://www.15thclub.com/2017/03/02/15th-club-hackathon/) and
+asked participants to analyze and uncover insights from the shot-by-shot data. To
+see the data munging and analyses, see the
+[notebooks](https://github.com/brendansudol/golf-moneyball/tree/master/notebooks).
 
 ---
 
